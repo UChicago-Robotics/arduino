@@ -1,5 +1,6 @@
 #define joyX A0
 #define joyY A1
+int xValue, yValue;
  
 void setup() {
   Serial.begin(9600);
